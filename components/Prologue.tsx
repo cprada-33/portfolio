@@ -52,7 +52,7 @@ export const Prologue: React.FC = () => {
         {/* Social / Contact Icons */}
         <div className="flex justify-center gap-8 mt-8">
           <a
-            href="#"
+            href="https://drive.google.com/file/d/1WB7wGSlGEdDWWnr6A1YCrCmWDNVFu8FL/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="text-stone-500 hover:text-accent hover:scale-110 transition-all duration-300 flex flex-col items-center gap-1 group"

@@ -5,17 +5,41 @@ import { Skill } from "../types";
 const skills: Skill[] = [
   {
     category: "Frontend Dialects",
-    items: ["React", "TypeScript", "Tailwind CSS", "Next.js", "Vue", "Nuxt"],
+    items: [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Next.js",
+      "Vue",
+      "Nuxt",
+      "React native",
+      "HTML",
+      "CSS",
+    ],
     icon: <Layout className="w-6 h-6" />,
   },
   {
     category: "Backend Syntax",
-    items: ["Node.js", "Express", "Java", "GraphQL", "REST APIs"],
+    items: [
+      "Node.js",
+      "Express",
+      "Java",
+      "GraphQL",
+      "REST APIs",
+      "Serverless functions",
+    ],
     icon: <Code className="w-6 h-6" />,
   },
   {
-    category: "Archives (Data)",
-    items: ["PostgreSQL", "MongoDB", "Firebase", "Google Cloud", "Git"],
+    category: "Archives (Data) & Cloud",
+    items: [
+      "PostgreSQL",
+      "MongoDB",
+      "Firebase",
+      "Google Cloud Platform",
+      "Azure",
+      "Git",
+    ],
     icon: <Database className="w-6 h-6" />,
   },
   {
