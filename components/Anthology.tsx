@@ -9,7 +9,7 @@ const projects: Project[] = [
     description:
       "A booking platform built with the reliability of a front desk. Features real-time availability management and automated reservation handling for a seamless guest experience.",
     tags: ["Vue", "Nuxt", "Typescript", "Firebase", "GCP"],
-    image: "/abya.png",
+    image: "/portfolio/abya.png",
     chapter: "I",
     github: "https://github.com",
     link: "https://abyayalahostel.com",
@@ -20,7 +20,7 @@ const projects: Project[] = [
     description:
       "A global shipping platform built with the precision of a control tower. Features real-time container tracking and automated shipment requests for streamlined international logistics.",
     tags: ["Vue", "Nuxt", "Typescript", "Firebase", "GCP"],
-    image: "/nogal.png",
+    image: "/portfolio/nogal.png",
     chapter: "II",
     link: "https://nogalinternacional.com",
   },
@@ -30,7 +30,7 @@ const projects: Project[] = [
     description:
       "A global logistics platform built with the precision of a control tower. Features real-time container tracking, automated shipment requests, and an integrated commodity brokerage for international products like cotton.",
     tags: ["Vue", "Nuxt", "Typescript", "Firebase", "GCP"],
-    image: "/clinpcorp.png",
+    image: "/portfolio/clinpcorp.png",
     chapter: "III",
     link: "https://clinpcorp.com",
   },
@@ -48,7 +48,7 @@ const projects: Project[] = [
       "Express",
       "React native",
     ],
-    image: "/soon.png",
+    image: "/portfolio/soon.png",
     chapter: "IV",
     github: "https://github.com",
   },
